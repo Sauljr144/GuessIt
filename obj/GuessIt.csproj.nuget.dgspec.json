@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\GuessIt\\GuessIt\\GuessIt.csproj": {}
+    "/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/SaulGuessIt/GuessIt/GuessIt.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\GuessIt\\GuessIt\\GuessIt.csproj": {
+    "/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/SaulGuessIt/GuessIt/GuessIt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\GuessIt\\GuessIt\\GuessIt.csproj",
+        "projectUniqueName": "/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/SaulGuessIt/GuessIt/GuessIt.csproj",
         "projectName": "GuessIt",
-        "projectPath": "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\GuessIt\\GuessIt\\GuessIt.csproj",
-        "packagesPath": "C:\\Users\\sauls\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sauls\\Documents\\CS Academy\\Level1\\GuessIt\\GuessIt\\obj\\",
+        "projectPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/SaulGuessIt/GuessIt/GuessIt.csproj",
+        "packagesPath": "/Users/val/.nuget/packages/",
+        "outputPath": "/Users/val/Documents/CodeStack/Level1/LMSassignments/PeerReview/SaulGuessIt/GuessIt/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\sauls\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/val/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -53,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
         }
       }
     }
